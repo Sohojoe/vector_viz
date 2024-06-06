@@ -1,0 +1,12 @@
+plotyl
+chromadb
+pandas
+requests
+pre-commit==3.7.1
+black
+ruff
+codespell
+mypy
+nbqa
+types-requests
+pytest
